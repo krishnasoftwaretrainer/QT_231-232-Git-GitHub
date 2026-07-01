@@ -1,3 +1,4 @@
 VCS:Tracking the Changes.
 Git Commands:Version Control System
-GitHub:Manual and Commands
+Commit changes into Local Repo
+git commit -m "New Changes"
